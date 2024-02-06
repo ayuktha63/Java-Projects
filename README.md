@@ -20,7 +20,6 @@ To clone this repository and run the Java code locally, follow these steps:
 
    ```bash
    cd path/to/your/directory
-   ```bash
 
 3. Clone the repository using the following command:
 
