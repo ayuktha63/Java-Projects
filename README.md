@@ -1,5 +1,3 @@
-Sure, here's the updated README.md file with file names and descriptions:
-
 ```markdown
 # Java Projects Repository
 
