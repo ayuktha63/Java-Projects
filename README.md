@@ -1,6 +1,17 @@
+Sure, here's the updated README.md file with file names and descriptions:
+
+```markdown
 # Java Projects Repository
 
 Welcome to the **Java Projects** repository! This collection features a variety of Java projects and programs, both completed and ongoing. Feel free to explore and leverage these projects for learning and reference purposes.
+
+## Projects
+
+1. **Currency Converter**: A program that converts Indian Rupees (INR) to US Dollars (USD).
+
+2. **Login App**: A small login application with the username 'admin' and the password 'password'.
+
+3. **MarkCalculator GUI**: A GUI-based mark calculator that calculates marks based on the last date.
 
 ## Steps to Reproduce
 
@@ -39,3 +50,6 @@ To clone this repository and run the Java code locally, follow these steps:
 Feel free to use, modify, and contribute to the projects in this repository. If you have any questions or feedback, don't hesitate to reach out!
 
 Happy coding!
+```
+
+This README now provides a brief description of each project included in the repository.
