@@ -1,5 +1,3 @@
-
-```markdown
 # Java Projects Repository
 
 Welcome to the **Java Projects** repository! This collection features a variety of Java projects and programs, both completed and ongoing. Feel free to explore and leverage these projects for learning and reference purposes.
@@ -22,7 +20,7 @@ To clone this repository and run the Java code locally, follow these steps:
 
    ```bash
    cd path/to/your/directory
-   ```
+   ```bash
 
 3. Clone the repository using the following command:
 
