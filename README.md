@@ -12,6 +12,7 @@ Welcome to the **Java Projects** repository! This collection features a variety 
 
 4. **FileReader and WriterGUI**:A GUI-based application that Create ,Reads and Write into a File.(TestFile is Required in this Program Or Create a Random File)
 
+5. **Virtual_Keyboard**: A GUI-based application that simulates the working of a normal keyboard with customized keys
 ## Steps to Reproduce
 
 To clone this repository and run the Java code locally, follow these steps:
